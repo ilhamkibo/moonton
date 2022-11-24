@@ -13,7 +13,7 @@ export default function Show() {
                 controls
                 width={"100%"}
                 height={"800px"}
-            />
+            /> 
             </div>
             {/* Button back to dashboard  */}
             <div class="absolute top-5 left-5 z-20">
