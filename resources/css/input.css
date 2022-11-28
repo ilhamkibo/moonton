@@ -1,5 +1,5 @@
 .input-error{
-    @apply ring ring-red-600;
+    @apply ring ring-red-600 !important;
 }
 
 .input-primary {
@@ -8,6 +8,6 @@
 }
 
 .input-primary-outline{
-    @apply bg-[#fff] focus:bg-[#fff] border-alerange focus:border-alerange;
-    @apply file:bg-alerange file:text-white file:rounded-md file:p-2;
+    @apply bg-[#fff] focus:bg-[#fff] border-alerange focus:border-alerange !important;
+    @apply file:bg-alerange file:text-white file:rounded-md file:p-2 !important;
 }

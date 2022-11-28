@@ -3,15 +3,15 @@
 }
 
 .btn-warning {
-    @apply bg-yellow-500 text-white;
+    @apply bg-yellow-500 text-white !important;
 }
 
 .btn-danger {
-    @apply bg-red-500 text-white;
+    @apply bg-red-500 text-white !important;
 }
 
 .btn-light-outline {
-    @apply text-white border border-white;
+    @apply text-white border border-white !important;
 }
 
 .btn-white-outline {
